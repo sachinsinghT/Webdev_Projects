@@ -22,7 +22,7 @@ form.addEventListener('submit', function (e) {
         outcome.innerHTML='you are under weight';
      }
      else if(bmi>=18.6 && bmi<=24.9){
-       outcome.innerHTML='you are normal';
+       outcome.innerHTML='you are normal ';
      }
      else{
        outcome.innerHTML='you are over weight';
