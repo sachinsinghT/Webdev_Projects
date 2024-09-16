@@ -27,7 +27,7 @@ form.addEventListener('submit', function (e) {
      else{
        outcome.innerHTML='you are over weight';
      }
-  }
-
+     
+  } 
 });
 
